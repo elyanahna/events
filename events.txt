@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Eliana</title>
+  <link rel="stylesheet" href="eport.css">
+</head>
+<body>
+<ul class="ul">
+  <li><a class="active" href="me.html">Eliana</a></li>
+   <li><a class="active" href="quarter.html">Quarter</a></li>
+   <li><a class="active" href="lessons.html">Lessons</a></li>
+   <li><a class="active" href="reflection.html">Reflection</a></li>
+   <li><a class="active" href="events.html">Events</a></li>
+   <li><a class="active" href="random.html"> Random things</a></li>
+
+</ul>
+
+<h2>Play me! </h2>
+
+<audio controls>
+<source src="C:\Users\Jesusa Cuenca\Downloads\NIKI - Buzz (Official Music Video) (1).mp3" type="audio/mp3">
+</audio>
+
+<p class="head">
+  <b>ACTIVITIES IN SECOND QUARTER</b>
+</p>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> After our MAPEH Performance Task (cha-cha) </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\462581955_1066790418522877_1166859808304520945_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> During our VPOP Practice </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\462583298_582954010765313_3007713945267387349_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> Our Historical Figure's Cape </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\467125431_1698227567389988_6330716387781162668_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> The making of Historical Figure dress </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\462574176_1755183858637620_2241004341905177806_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> My plate in MAPEH </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\462571890_624293133259513_6902561243743806358_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> Magindara Women's Volleyball</b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\462567941_546798131570823_3008244992830642238_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> Opening of Intramurals </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\461275385_8870957186256796_8339675196521695545_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="500" cellpadding="8" cellspacing="10" align="center">
+<tr height="40" bgcolor="pink">
+<th><b> Teachers Day Celebration with Family </b></th>
+</tr>
+<tr>
+<td>
+<img src="C:\Users\Jesusa Cuenca\Downloads\460639017_3817997585110136_1549290762130288426_n.jpg" width="450" height="400">
+</td>
+</tr>
+</table>
+
+</body>
+</html>
